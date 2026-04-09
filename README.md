@@ -162,4 +162,6 @@ npm run bot
 
 - **Дашборд**: https://dashboard-tau-sooty.vercel.app
 - **Скриншот Telegram**: <img width="571" height="895" alt="image" src="https://github.com/user-attachments/assets/8e8c5acf-d61e-44a0-82d9-6dcd7462f424" />
+- **Скриншот RetailCRM**: <img width="1512" height="842" alt="image" src="https://github.com/user-attachments/assets/05405a2f-957d-43a5-a9c5-03bc832b924e" />
+
 
