@@ -8,11 +8,8 @@
 !.env.example
 !.env.local.example
 
-# Claude Code local files
-.claude/settings.json
-.claude/settings.local.json
-.claude/tasks/
-.claude/backups/
+# Claude Code
+.claude/
 
 # Slack MCP cache files
 users_cache.json
