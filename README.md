@@ -161,4 +161,5 @@ npm run bot
 ## Ссылки
 
 - **Дашборд**: https://dashboard-tau-sooty.vercel.app
-- **Скриншот Telegram**: [добавить скриншот]
+- **Скриншот Telegram**: <img width="571" height="895" alt="image" src="https://github.com/user-attachments/assets/8e8c5acf-d61e-44a0-82d9-6dcd7462f424" />
+
