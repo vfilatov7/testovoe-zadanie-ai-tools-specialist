@@ -1,0 +1,49 @@
+# MCP configuration (contains credentials)
+.mcp.json
+.mcp*.json
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Claude Code local files
+.claude/settings.json
+.claude/settings.local.json
+.claude/tasks/
+.claude/backups/
+
+# Slack MCP cache files
+users_cache.json
+channels_cache*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vercel
+.vercel/
+
+# Build outputs
+dist/
+build/
+.next/
+*.egg-info/
+
+# Logs
+*.log
+logs/

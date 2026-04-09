@@ -1,0 +1,14 @@
+{
+  "name": "testovoe-zadanie-ai-tools-specialist",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "upload": "node scripts/upload-to-retailcrm.mjs",
+    "sync": "node scripts/sync-to-supabase.mjs",
+    "bot": "node scripts/telegram-bot.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0",
+    "dotenv": "^16.4.7"
+  }
+}
